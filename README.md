@@ -3,9 +3,9 @@
 
 [![Canon.com/ijsetup ](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-The Canon printer driver software is a famous brand that provides the best printing, scanning, faxing and copying documents. Visit canon printer official website: **[canon.com/ijsetup](https://ijsetupcom.github.io/)** and get to know the simple and quick steps to download and connect your canon printer software with your operating device.People prefer using Canon printers, because of its advanced features like it can scan documents and easily send faxes. It delivers outstanding printing quality at very reasonable prices. Visit 
+The Canon printer driver software is a famous brand that provides the best printing, scanning, faxing and copying documents. Visit canon printer official website: **[canon.com/ijsetup](https://ijsetupcom.github.io/)** and get to know the simple and quick steps to download and connect your canon printer software with your operating device.
 
-**Canon.com/ijsetup** and download the driver software for your device.
+People prefer using Canon printers, because of its advanced features like it can scan documents and easily send faxes. It delivers outstanding printing quality at very reasonable prices. Visit **Canon.com/ijsetup** and download the driver software for your device.
 
 
 
